@@ -1,0 +1,47 @@
+
+.first_div{
+    display: flex;
+    flex-direction: row;
+    background-color: #353b48;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    min-width: 1000px;
+}
+.rubrik{
+    color: #e84118;
+    font-family: bold;
+}
+.länkar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 300px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.HEM_a{
+    color: #e84118;
+}
+.andra_div{
+    display: flex;
+    flex-direction: column;
+    background-image: url("./img/Skärmbild\ 2024-10-12\ 103336.png");
+    height: 300px;
+    image-rendering: crisp-edges;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    padding-top: 100px;
+    color: white;
+}
+p{
+    width: 900px;
+}
+.andra_rubrik{
+    font-size: 50px;
+}
+
