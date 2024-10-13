@@ -1,4 +1,7 @@
 
+body{
+    margin: auto;
+}
 .first_div{
     display: flex;
     flex-direction: row;
